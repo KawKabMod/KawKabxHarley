@@ -128,6 +128,6 @@ Do **not** put the file on old data. Always:
 
 ---
 
-**Dm To Buy** → [@ELOBPA1](https://t.me/ELOBPA1)
+**Dm To Buy** → [@ELPAPPA1](https://t.me/ELPAPPA1)
 
 **KawKab × Harley** 🤍
