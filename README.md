@@ -42,12 +42,12 @@ Copy the path matching your game version and place the PAK files inside the `puf
 /storage/emulated/0/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp/
 ```
 
-### PUBG Flash
+### PUBG Flash ⚡
 ```
 /storage/emulated/0/Android/data/com.tencent.igfit/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp/
 ```
 
-### PUBG Mobile HD (China)
+### Game For Peace (China)
 ```
 /storage/emulated/0/Android/data/com.tencent.tmgp.pubgmhd/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp/
 ```
